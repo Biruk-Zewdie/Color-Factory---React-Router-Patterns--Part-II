@@ -1,0 +1,14 @@
+.homePage-header {
+    background-color: black;
+    color:white;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+
+}
+.homePage-header > a {
+    color: white;
+    font-size: x-large;
+    margin-top: 30px;
+
+}

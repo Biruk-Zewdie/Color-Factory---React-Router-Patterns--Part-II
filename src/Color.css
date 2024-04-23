@@ -1,0 +1,24 @@
+.Color-list {
+    list-style: none;
+    margin-bottom: 0;
+    padding: 0;
+
+}
+
+.Color-list>li {
+    font-size: medium;
+    font-weight: 600;
+
+}
+
+.Color-list>li>a {
+    text-decoration: none;
+    color: black;
+    transition: transform 0.3s;
+}
+
+.Color-list>li>a:hover {
+
+    text-decoration: underline;
+    transform: scale(1.5);
+}

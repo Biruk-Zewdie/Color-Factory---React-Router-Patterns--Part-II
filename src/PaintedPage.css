@@ -1,0 +1,15 @@
+  .paintedPage {
+    width: 100vw;
+    height: 100vh;
+    color:aliceblue;
+    background-color: var(--colorName);
+    display: flex;
+    flex-direction: column;
+}
+.paintedPage> h1 {
+    margin: 4rem;
+    font-size: 8rem;
+}
+.paintedPage > a {
+    font-size: 8rem;
+}
